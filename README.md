@@ -8,4 +8,4 @@ Sauvegarder ses données a distance OR2S
 - Nommez votre fichier comme ceci : prenom_JJMMAAAA (ex: jerome_23032020)
 - Connectez vous sur le site [fichiers.or2s.fr](https://fichiers.or2s.fr) en utilisant l'utilisateur "sauvegarde" (Le mot de passe vous a été fourni dans un mail séparé)
 - Cliquez sur le bouton "parcourir" puis sélectionner votre fichier chiffré (.7z pour les PC ou .dmg pour les MAC)
-- Cliquez sur le bouton "Envoyer" puis patientiez jusqu’à obtenir le message 
+- Cliquez sur le bouton "Envoyer" puis patientiez jusqu’à obtenir le message "Les fichiers ont bien été envoyés !" apparaisse
